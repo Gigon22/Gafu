@@ -1,0 +1,5 @@
+I've updated your contract to create $GAFU, a dolphin-themed token with additional features:
+
+Max Supply of 10 million tokens
+Burnable: Tokens can be destroyed
+Pausable: Transfers can be paused by the owner
